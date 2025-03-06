@@ -1,5 +1,8 @@
 package com.bibek.MethodLab;
-
+/*
+    Name: Bibek Ray
+    RollNo.: 407
+*/
 import java.util.Scanner;
 
 public class PalindromeInt {
